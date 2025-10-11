@@ -1,0 +1,2 @@
+#!/bin/bash
+Con diez cañones por banda, viento en popa a toda vela, no corta el mar, sino vuela un velero bergantín; bajel pirata que llaman, por su bravura, el Temido, en todo mar conocido del uno al otro confín.
